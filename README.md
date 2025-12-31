@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently studing at SPPU university, i am much more intrusted in making logos and building interactive UI, i am an 3rd year computer engineering student , to behonest i learned basics of java c++ python , plus some libraries in python pandas and numpy , i am doing honours in AIML degree in parallel
+I am a third-year Computer Engineering student at Savitribai Phule Pune University (SPPU) with a strong interest in building interactive, user-centric UI experiences. Alongside my core Computer Science degree, I am pursuing an Honours specialisation in Artificial Intelligence and Machine Learning. I have foundational knowledge of Java, C++, and Python, with hands-on experience using Python libraries such as Pandas and NumPy. I am motivated to combine technical problem-solving with thoughtful interface design to develop efficient and engaging digital solutions.
 
 
 ## 🌐 Socials:
