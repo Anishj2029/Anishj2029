@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year Computer Engineering student at Savitribai Phule Pune University (SPPU) with a strong interest in building interactive, user-centric UI experiences. Alongside my core Computer Science degree, I am pursuing an Honours specialisation in Artificial Intelligence and Machine Learning. I have foundational knowledge of Java, C++, and Python, with hands-on experience using Python libraries such as Pandas and NumPy. I am motivated to combine technical problem-solving with thoughtful interface design to develop efficient and engaging digital solutions.
+I am a Fourth Computer Engineering student at Savitribai Phule Pune University (SPPU) with a strong interest in building interactive, user-centric UI experiences. Alongside my core Computer Science degree, I am pursuing an Honours specialisation in Artificial Intelligence and Machine Learning. I have foundational knowledge of Java, C++, and Python, with hands-on experience using Python libraries such as Pandas and NumPy. I am motivated to combine technical problem-solving with thoughtful interface design to develop efficient and engaging digital solutions.
 
 
 ## 🌐 Socials:
