@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me<br><br>I'm a final-year Computer Science student passionate about turning ideas into software. I enjoy building applications that I personally wish existed and believe that every project teaches something beyond code.<br><br>Outside of programming, you'll often find me reading about psychology, philosophy, business, Energy Engineering (with a nuclear specialization),mathematics, or space science. I'm fascinated by understanding how people think, how systems evolve, and why things work the way they do. Curiosity drives almost everything I learn.<br><br>I'm always looking to improve as a developer, thinker, and lifelong learner.<br>
+# About Me:
+I'm a final-year Computer Science student passionate about turning ideas into software. I enjoy building applications that I personally wish existed and believe that every project teaches something beyond code.<br><br>Outside of programming, you'll often find me reading about psychology, philosophy, business, Energy Engineering (with a nuclear specialization),mathematics, or space science. I'm fascinated by understanding how people think, how systems evolve, and why things work the way they do. Curiosity drives almost everything I learn.<br><br>I'm always looking to improve as a developer, thinker, and lifelong learner.<br>
 
 
 ## 🌐 Socials:
